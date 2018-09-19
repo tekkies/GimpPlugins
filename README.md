@@ -1,5 +1,4 @@
-# GimpPlugins
-
+# GimpPlugins v1.0
 Tested on gimp 2.8 Windows.
 
 # Install
