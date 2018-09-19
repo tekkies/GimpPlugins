@@ -1,11 +1,11 @@
 # GimpPlugins v1.1
-Tested on gimp 2.8 Windows.
+Tested on Gimp 2.10.
 
 ![Menu](doc/menu.png "Menu")
 
 # Install
 
- Place python files in gimp plug-ins folder (e.g. `%userprofile%\.gimp-2.8\plug-ins`) and restart Gimp.
+ Place python files in gimp plug-ins folder (e.g. `%appdata%\GIMP\2.10\plug-ins` or`%userprofile%\.gimp-2.8\plug-ins`) and restart Gimp.
 
  Note: No need to restart Gimp if code changed unless you change the registration.
 
