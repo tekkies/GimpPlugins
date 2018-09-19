@@ -16,12 +16,12 @@ def python_export_selection_to_jpg(timg, tdrawable):
 
 register(
     "python_fu_export_selection_to_jpg",
-    "Saves the selection to a jpg",
-    "Saves the selection to a jpg",
+    "Exports the current selection (or whole image) as a new file",
+    "Exports the current selection (or whole image) as a new file.  The exported file name is based on the original image file name and the time the export occurred.",
     "Andy Joiner",
     "Andy Joiner",
     "2018",
-    "<Image>/Select/Save selection as jpg",
+    "<Image>/Select/Export selection to jpg",
     "RGB*, GRAY*",
     [],
     [],
