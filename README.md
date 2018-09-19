@@ -1,4 +1,4 @@
-# GimpPlugins v1.0
+# GimpPlugins v1.1
 Tested on gimp 2.8 Windows.
 
 ![Menu](doc/menu.png "Menu")
