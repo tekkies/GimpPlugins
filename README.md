@@ -18,4 +18,4 @@ Tested on gimp 2.8 Windows.
  2. Menu > Select > Save selection as jpg  
 ![Menu item in Gimp](doc/screenshot1.png "Menu item in Gimp")
  3. A new jpg file is created on disk based on the original file name and the time the export occurred  
- ![Files on disk](doc/screenshot1.png "Files on disk")
+ ![Files on disk](doc/output.png "Files on disk")
